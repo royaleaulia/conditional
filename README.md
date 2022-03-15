@@ -22,3 +22,4 @@ elseif($nilai >= 80){
 else {
     echo "Error <br>";
 }
+?>
